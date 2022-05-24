@@ -1,0 +1,23 @@
+#notas 2
+    linhas2 = linhas[2:3]
+    notas2 = []
+    for linha in linhas2:
+        fragmentos2 = linha.split(' ')
+        if len(fragmentos2) > 1:
+            notas2.append(fragmentos2)
+    print(notas2)
+    notas_int2 = list(map(int, fragmentos))
+    res_notas2 = sum(notas_int2)/3
+    print('notas 2:', res_notas2)
+
+    #notas 3
+    linhas3 = linhas[3:4]
+    notas3 = []
+    for linha in linhas3:
+        fragmentos3 = linha.split(' ')
+        if len(fragmentos3) > 1:
+            notas3.append(fragmentos3)
+    print(notas3)
+    notas_int3 = list(map(int, fragmentos3))
+    res_notas3 = sum(notas_int3)/3
+    print('notas 3:', res_notas3)

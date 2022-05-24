@@ -1,0 +1,6 @@
+1 - Goku,6
+2 - vegeta,3
+3 - Gohan,4
+4 - Broly,3
+5 - Freeza,5 
+6 - nulo,3
