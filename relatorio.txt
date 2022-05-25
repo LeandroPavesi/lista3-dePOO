@@ -1,0 +1,433 @@
+Usuario Espaco utilizado    % do uso
+Alexandre    434.99   16.85
+ 
+Alexandre    434.99   46.02
+ 
+Alexandre    434.99   4.56
+ 
+Alexandre    434.99   3.37
+ 
+Alexandre    434.99   0.04
+ 
+Alexandre    434.99   29.16
+ 
+Alexandre    1187.99   16.85
+ 
+Alexandre    1187.99   46.02
+ 
+Alexandre    1187.99   4.56
+ 
+Alexandre    1187.99   3.37
+ 
+Alexandre    1187.99   0.04
+ 
+Alexandre    1187.99   29.16
+ 
+Alexandre    117.74   16.85
+ 
+Alexandre    117.74   46.02
+ 
+Alexandre    117.74   4.56
+ 
+Alexandre    117.74   3.37
+ 
+Alexandre    117.74   0.04
+ 
+Alexandre    117.74   29.16
+ 
+Alexandre    87.03   16.85
+ 
+Alexandre    87.03   46.02
+ 
+Alexandre    87.03   4.56
+ 
+Alexandre    87.03   3.37
+ 
+Alexandre    87.03   0.04
+ 
+Alexandre    87.03   29.16
+ 
+Alexandre    0.94   16.85
+ 
+Alexandre    0.94   46.02
+ 
+Alexandre    0.94   4.56
+ 
+Alexandre    0.94   3.37
+ 
+Alexandre    0.94   0.04
+ 
+Alexandre    0.94   29.16
+ 
+Alexandre    752.88   16.85
+ 
+Alexandre    752.88   46.02
+ 
+Alexandre    752.88   4.56
+ 
+Alexandre    752.88   3.37
+ 
+Alexandre    752.88   0.04
+ 
+Alexandre    752.88   29.16
+ 
+Anderson    434.99   16.85
+ 
+Anderson    434.99   46.02
+ 
+Anderson    434.99   4.56
+ 
+Anderson    434.99   3.37
+ 
+Anderson    434.99   0.04
+ 
+Anderson    434.99   29.16
+ 
+Anderson    1187.99   16.85
+ 
+Anderson    1187.99   46.02
+ 
+Anderson    1187.99   4.56
+ 
+Anderson    1187.99   3.37
+ 
+Anderson    1187.99   0.04
+ 
+Anderson    1187.99   29.16
+ 
+Anderson    117.74   16.85
+ 
+Anderson    117.74   46.02
+ 
+Anderson    117.74   4.56
+ 
+Anderson    117.74   3.37
+ 
+Anderson    117.74   0.04
+ 
+Anderson    117.74   29.16
+ 
+Anderson    87.03   16.85
+ 
+Anderson    87.03   46.02
+ 
+Anderson    87.03   4.56
+ 
+Anderson    87.03   3.37
+ 
+Anderson    87.03   0.04
+ 
+Anderson    87.03   29.16
+ 
+Anderson    0.94   16.85
+ 
+Anderson    0.94   46.02
+ 
+Anderson    0.94   4.56
+ 
+Anderson    0.94   3.37
+ 
+Anderson    0.94   0.04
+ 
+Anderson    0.94   29.16
+ 
+Anderson    752.88   16.85
+ 
+Anderson    752.88   46.02
+ 
+Anderson    752.88   4.56
+ 
+Anderson    752.88   3.37
+ 
+Anderson    752.88   0.04
+ 
+Anderson    752.88   29.16
+ 
+Antonio    434.99   16.85
+ 
+Antonio    434.99   46.02
+ 
+Antonio    434.99   4.56
+ 
+Antonio    434.99   3.37
+ 
+Antonio    434.99   0.04
+ 
+Antonio    434.99   29.16
+ 
+Antonio    1187.99   16.85
+ 
+Antonio    1187.99   46.02
+ 
+Antonio    1187.99   4.56
+ 
+Antonio    1187.99   3.37
+ 
+Antonio    1187.99   0.04
+ 
+Antonio    1187.99   29.16
+ 
+Antonio    117.74   16.85
+ 
+Antonio    117.74   46.02
+ 
+Antonio    117.74   4.56
+ 
+Antonio    117.74   3.37
+ 
+Antonio    117.74   0.04
+ 
+Antonio    117.74   29.16
+ 
+Antonio    87.03   16.85
+ 
+Antonio    87.03   46.02
+ 
+Antonio    87.03   4.56
+ 
+Antonio    87.03   3.37
+ 
+Antonio    87.03   0.04
+ 
+Antonio    87.03   29.16
+ 
+Antonio    0.94   16.85
+ 
+Antonio    0.94   46.02
+ 
+Antonio    0.94   4.56
+ 
+Antonio    0.94   3.37
+ 
+Antonio    0.94   0.04
+ 
+Antonio    0.94   29.16
+ 
+Antonio    752.88   16.85
+ 
+Antonio    752.88   46.02
+ 
+Antonio    752.88   4.56
+ 
+Antonio    752.88   3.37
+ 
+Antonio    752.88   0.04
+ 
+Antonio    752.88   29.16
+ 
+Carlos    434.99   16.85
+ 
+Carlos    434.99   46.02
+ 
+Carlos    434.99   4.56
+ 
+Carlos    434.99   3.37
+ 
+Carlos    434.99   0.04
+ 
+Carlos    434.99   29.16
+ 
+Carlos    1187.99   16.85
+ 
+Carlos    1187.99   46.02
+ 
+Carlos    1187.99   4.56
+ 
+Carlos    1187.99   3.37
+ 
+Carlos    1187.99   0.04
+ 
+Carlos    1187.99   29.16
+ 
+Carlos    117.74   16.85
+ 
+Carlos    117.74   46.02
+ 
+Carlos    117.74   4.56
+ 
+Carlos    117.74   3.37
+ 
+Carlos    117.74   0.04
+ 
+Carlos    117.74   29.16
+ 
+Carlos    87.03   16.85
+ 
+Carlos    87.03   46.02
+ 
+Carlos    87.03   4.56
+ 
+Carlos    87.03   3.37
+ 
+Carlos    87.03   0.04
+ 
+Carlos    87.03   29.16
+ 
+Carlos    0.94   16.85
+ 
+Carlos    0.94   46.02
+ 
+Carlos    0.94   4.56
+ 
+Carlos    0.94   3.37
+ 
+Carlos    0.94   0.04
+ 
+Carlos    0.94   29.16
+ 
+Carlos    752.88   16.85
+ 
+Carlos    752.88   46.02
+ 
+Carlos    752.88   4.56
+ 
+Carlos    752.88   3.37
+ 
+Carlos    752.88   0.04
+ 
+Carlos    752.88   29.16
+ 
+Cesar    434.99   16.85
+ 
+Cesar    434.99   46.02
+ 
+Cesar    434.99   4.56
+ 
+Cesar    434.99   3.37
+ 
+Cesar    434.99   0.04
+ 
+Cesar    434.99   29.16
+ 
+Cesar    1187.99   16.85
+ 
+Cesar    1187.99   46.02
+ 
+Cesar    1187.99   4.56
+ 
+Cesar    1187.99   3.37
+ 
+Cesar    1187.99   0.04
+ 
+Cesar    1187.99   29.16
+ 
+Cesar    117.74   16.85
+ 
+Cesar    117.74   46.02
+ 
+Cesar    117.74   4.56
+ 
+Cesar    117.74   3.37
+ 
+Cesar    117.74   0.04
+ 
+Cesar    117.74   29.16
+ 
+Cesar    87.03   16.85
+ 
+Cesar    87.03   46.02
+ 
+Cesar    87.03   4.56
+ 
+Cesar    87.03   3.37
+ 
+Cesar    87.03   0.04
+ 
+Cesar    87.03   29.16
+ 
+Cesar    0.94   16.85
+ 
+Cesar    0.94   46.02
+ 
+Cesar    0.94   4.56
+ 
+Cesar    0.94   3.37
+ 
+Cesar    0.94   0.04
+ 
+Cesar    0.94   29.16
+ 
+Cesar    752.88   16.85
+ 
+Cesar    752.88   46.02
+ 
+Cesar    752.88   4.56
+ 
+Cesar    752.88   3.37
+ 
+Cesar    752.88   0.04
+ 
+Cesar    752.88   29.16
+ 
+Rosemary    434.99   16.85
+ 
+Rosemary    434.99   46.02
+ 
+Rosemary    434.99   4.56
+ 
+Rosemary    434.99   3.37
+ 
+Rosemary    434.99   0.04
+ 
+Rosemary    434.99   29.16
+ 
+Rosemary    1187.99   16.85
+ 
+Rosemary    1187.99   46.02
+ 
+Rosemary    1187.99   4.56
+ 
+Rosemary    1187.99   3.37
+ 
+Rosemary    1187.99   0.04
+ 
+Rosemary    1187.99   29.16
+ 
+Rosemary    117.74   16.85
+ 
+Rosemary    117.74   46.02
+ 
+Rosemary    117.74   4.56
+ 
+Rosemary    117.74   3.37
+ 
+Rosemary    117.74   0.04
+ 
+Rosemary    117.74   29.16
+ 
+Rosemary    87.03   16.85
+ 
+Rosemary    87.03   46.02
+ 
+Rosemary    87.03   4.56
+ 
+Rosemary    87.03   3.37
+ 
+Rosemary    87.03   0.04
+ 
+Rosemary    87.03   29.16
+ 
+Rosemary    0.94   16.85
+ 
+Rosemary    0.94   46.02
+ 
+Rosemary    0.94   4.56
+ 
+Rosemary    0.94   3.37
+ 
+Rosemary    0.94   0.04
+ 
+Rosemary    0.94   29.16
+ 
+Rosemary    752.88   16.85
+ 
+Rosemary    752.88   46.02
+ 
+Rosemary    752.88   4.56
+ 
+Rosemary    752.88   3.37
+ 
+Rosemary    752.88   0.04
+ 
+Rosemary    752.88   29.16
+ 
